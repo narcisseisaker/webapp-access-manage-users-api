@@ -1,6 +1,6 @@
 # Web Application for users access management
 
-This application allows management of users.
+This application allows management of users. It implements the Frontend part
 
 ## Functionnalities
 
@@ -10,8 +10,9 @@ Forms used for :
 - Updating user data
 - Deleting user data
 
-## Tecnologies
+## Technologies
 
+- Spring Boot
 - HTML
 - CSS
 - Bootstrap
