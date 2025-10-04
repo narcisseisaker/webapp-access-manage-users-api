@@ -14,7 +14,7 @@ Forms used for :
 
 - Spring Boot
 - HTML
-- CSS
+- CSS / LESS
 - Bootstrap
 - Theamleaf
 
